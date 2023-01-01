@@ -44,3 +44,26 @@ span{
     font-size: 19px;
     font-weight: 900;
 }
+@media screen and (max-width: 809px) {
+    .myhobbies{
+        width: 500px;
+    }
+
+    
+}
+@media screen and (max-width: 503px) {
+    .myhobbies{
+        width: 400px;
+    }
+
+    
+}
+@media screen and (max-width: 400px) {
+    .myhobbies{
+        font-size: 29px;
+        width: 250px;
+    }
+
+    
+}
+
